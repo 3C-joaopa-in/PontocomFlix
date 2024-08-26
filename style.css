@@ -57,15 +57,15 @@ header {
   text-decoration: none;
   margin-top: 2em;
   padding: 0;
-  color: white;
+  color: hotpink;
   font-size: 30px;
   margin-left: 700px;
 }
 
 .links__outrosite:hover{
-  color: #AC3EEF;
+  color: deeppink;
 }
 
 .links__outrosite:active{
-  color: #AC3EEF;
+  color: deeppink;
 }
