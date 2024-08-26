@@ -51,3 +51,21 @@ header {
 .categoria h2 {
     color: hotpink;
 }
+
+.link__outrosite{
+  justify-content: center;
+  text-decoration: none;
+  margin-top: 2em;
+  padding: 0;
+  color: white;
+  font-size: 30px;
+  margin-left: 700px;
+}
+
+.links__outrosite:hover{
+  color: #AC3EEF;
+}
+
+.links__outrosite:active{
+  color: #AC3EEF;
+}
